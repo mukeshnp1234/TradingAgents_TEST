@@ -217,3 +217,7 @@ __marimo__/
 
 # Cache
 **/data_cache/
+
+# Generated OHLCV workbooks. The committed HDFC file is the sample export.
+exports/*
+!exports/HDFCBANK.NS_ohlcv.xlsx
